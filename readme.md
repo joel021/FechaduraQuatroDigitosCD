@@ -6,3 +6,5 @@
 
 - O modelo com Model Maker faz aproveitamento dos pesos da parte de extração de características do modelo EfficientNet-B0.
 - Eu testo o efeito de aumentar os strides quanto ao tempo de treinamento e nível de acurácia. Aproveito e testo também tamanhos de reigões receptivas diferentes.
+
+Conjunto de imagens e código completo serão disponibilizados em breve.
